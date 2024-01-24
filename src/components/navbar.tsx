@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 
 const navbar = () => {
   const getInitialVisibility = () => window.innerWidth <= 640 ? false : true;
