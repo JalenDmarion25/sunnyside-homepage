@@ -9,6 +9,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
   <BrowserRouter basename="/sunnyside-homepage/">
   <React.StrictMode>
     <MainPage/>
-  </React.StrictMode>,
+  </React.StrictMode>
   </BrowserRouter>
 )
